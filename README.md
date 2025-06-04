@@ -1,6 +1,8 @@
-# eman-dev-journal
-# Welcome to My Dev Journal!
+Welcome to Eman’s Dev Journal 👩‍💻
+Hi! I’m Eman — a Software Engineering student, passionate about:
 
-Hi, I'm **Eman** — a Software Engineering student and GDG Photographer.
-
-This is where I'll share my learning journey, blogs, and projects.
+🌟 Programming (Java, C++)
+🎨 Graphic Design
+🤖 AI, SQL & DataScience
+📸 Photography
+This is my personal blog where I’ll post updates, projects, and reflections from my tech journey. Stay tuned! 🚀
